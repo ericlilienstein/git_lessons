@@ -1,3 +1,7 @@
 
-def my_cube(int):
+def my_cube(x):
+    return(x ** 3)
+
+print(my_cube(12))
+
    
