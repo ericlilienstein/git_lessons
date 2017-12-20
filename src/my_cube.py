@@ -1,10 +1,10 @@
 
-def my_cube(x):
+def my_cube(y):
     """ takes a value and returns the value cubed
     
     uses the ** operator
     """
-    return(x ** 3)
+    return(y ** 3)
 
 print(my_cube(13))
 
