@@ -1,4 +1,5 @@
-
+# A file used by the collaborator
+an edit made by the owner.
 I am a collaborator. This is a change on development branch.  
 
 git-flow is an extension of working with branches.
